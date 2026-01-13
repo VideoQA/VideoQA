@@ -1,0 +1,12 @@
+/* 针对 Streamlit 容器的简单美化 */
+.stChatMessage {
+    background-color: #f0f2f6;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.stVideo {
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}

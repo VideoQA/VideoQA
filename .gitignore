@@ -1,0 +1,13 @@
+
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.mp4
+*.avi
+*.txt
+.cache/
+# 排除临时文件和视频
+*.mp4
+*.avi
+*.txt
+temp/

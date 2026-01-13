@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/jp2022213661/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 7,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "e920c191187a4c0ebcb9a30c056c244d",
+  "url": "http://jupyter-jp2022213661:8888/user/jp2022213661/",
+  "version": "2.12.5"
+}

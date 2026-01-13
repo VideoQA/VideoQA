@@ -1,0 +1,3 @@
+[client]
+# 隐藏侧边栏顶部的默认页面导航列表
+showSidebarNavigation = false
